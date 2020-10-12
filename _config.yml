@@ -5,8 +5,7 @@
 title: Site Title
 # Short bio or description (displayed in the header)
 description: A Blog
-theme: jekyll-theme-dinky
-#
+theme: jekyll-theme-midnight#
 # !! DON'T EDIT BELOW THIS MESSAGE
 #
 # Use the following plug-ins
